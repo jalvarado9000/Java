@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Ahora/Ahora.iml" filepath="$PROJECT_DIR$/Ahora/Ahora.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Ambitrio/Ambitrio.iml" filepath="$PROJECT_DIR$/Ambitrio/Ambitrio.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Array/Array.iml" filepath="$PROJECT_DIR$/Array/Array.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Arrayllist/Arrayllist.iml" filepath="$PROJECT_DIR$/Arrayllist/Arrayllist.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Asig210/Asig210.iml" filepath="$PROJECT_DIR$/Asig210/Asig210.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BMI_Calculator/BMI_Calculator.iml" filepath="$PROJECT_DIR$/BMI_Calculator/BMI_Calculator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BankAccount/BankAccount.iml" filepath="$PROJECT_DIR$/BankAccount/BankAccount.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BankAccount2/BankAccount2.iml" filepath="$PROJECT_DIR$/BankAccount2/BankAccount2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BankAccountApp/BankAccountApp.iml" filepath="$PROJECT_DIR$/BankAccountApp/BankAccountApp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CarTax/CarTax.iml" filepath="$PROJECT_DIR$/CarTax/CarTax.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Celcius_to_Ferenheit/Celcius_to_Ferenheit.iml" filepath="$PROJECT_DIR$/Celcius_to_Ferenheit/Celcius_to_Ferenheit.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Columbus/Columbus.iml" filepath="$PROJECT_DIR$/Columbus/Columbus.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CountyTax/CountyTax.iml" filepath="$PROJECT_DIR$/CountyTax/CountyTax.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Cube_Rectangle_Calculator/Cube_Rectangle_Calculator.iml" filepath="$PROJECT_DIR$/Cube_Rectangle_Calculator/Cube_Rectangle_Calculator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CurrencyCalculator/CurrencyCalculator.iml" filepath="$PROJECT_DIR$/CurrencyCalculator/CurrencyCalculator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CurrencyExchangeMachine/CurrencyExchangeMachine.iml" filepath="$PROJECT_DIR$/CurrencyExchangeMachine/CurrencyExchangeMachine.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Excersice10/Excersice10.iml" filepath="$PROJECT_DIR$/Excersice10/Excersice10.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Failed_CurrencyConverter/Failed_CurrencyConverter.iml" filepath="$PROJECT_DIR$/Failed_CurrencyConverter/Failed_CurrencyConverter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/GradeSelector/GradeSelector.iml" filepath="$PROJECT_DIR$/GradeSelector/GradeSelector.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Grade_Selector2/Grade_Selector2.iml" filepath="$PROJECT_DIR$/Grade_Selector2/Grade_Selector2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Inclass/Inclass.iml" filepath="$PROJECT_DIR$/Inclass/Inclass.iml" />
+      <module fileurl="file://$PROJECT_DIR$/InfixEvaluation/InfixEvaluation.iml" filepath="$PROJECT_DIR$/InfixEvaluation/InfixEvaluation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/InterviewQuestionAgile/InterviewQuestionAgile.iml" filepath="$PROJECT_DIR$/InterviewQuestionAgile/InterviewQuestionAgile.iml" />
+      <module fileurl="file://$PROJECT_DIR$/IsPrime/IsPrime.iml" filepath="$PROJECT_DIR$/IsPrime/IsPrime.iml" />
+      <module fileurl="file://$PROJECT_DIR$/IsPrime2/IsPrime2.iml" filepath="$PROJECT_DIR$/IsPrime2/IsPrime2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Java2.iml" filepath="$PROJECT_DIR$/.idea/Java2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Learning_Inheritance2/Learning_Inheritance2.iml" filepath="$PROJECT_DIR$/Learning_Inheritance2/Learning_Inheritance2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Learning_Inheritence/Learning_Inheritence.iml" filepath="$PROJECT_DIR$/Learning_Inheritence/Learning_Inheritence.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Learning_Interfaces/Learning_Interfaces.iml" filepath="$PROJECT_DIR$/Learning_Interfaces/Learning_Interfaces.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Learning_JFrame/Learning_JFrame.iml" filepath="$PROJECT_DIR$/Learning_JFrame/Learning_JFrame.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Learning_JOption/Learning_JOption.iml" filepath="$PROJECT_DIR$/Learning_JOption/Learning_JOption.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Learning_arrayCopy/Learning_arrayCopy.iml" filepath="$PROJECT_DIR$/Learning_arrayCopy/Learning_arrayCopy.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LinearAlgorithmTime/LinearAlgorithmTime.iml" filepath="$PROJECT_DIR$/LinearAlgorithmTime/LinearAlgorithmTime.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MillageCalculator/MillageCalculator.iml" filepath="$PROJECT_DIR$/MillageCalculator/MillageCalculator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/NumberOfStepToReduceANumberToZero/NumberOfStepToReduceANumberToZero.iml" filepath="$PROJECT_DIR$/NumberOfStepToReduceANumberToZero/NumberOfStepToReduceANumberToZero.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Pass_Fail_Exam/Pass_Fail_Exam.iml" filepath="$PROJECT_DIR$/Pass_Fail_Exam/Pass_Fail_Exam.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PracticingScanner/PracticingScanner.iml" filepath="$PROJECT_DIR$/PracticingScanner/PracticingScanner.iml" />
+      <module fileurl="file://$PROJECT_DIR$/RichesCustomerWealth/RichesCustomerWealth.iml" filepath="$PROJECT_DIR$/RichesCustomerWealth/RichesCustomerWealth.iml" />
+      <module fileurl="file://$PROJECT_DIR$/elseifloop/elseifloop.iml" filepath="$PROJECT_DIR$/elseifloop/elseifloop.iml" />
+    </modules>
+  </component>
+</project>
